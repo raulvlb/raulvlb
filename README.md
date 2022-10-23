@@ -33,6 +33,6 @@
 
 #
 
-![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvlb&show_icons=true&theme=tokyonight)
+<!-- ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvlb&show_icons=true&theme=tokyonight) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulvlb&repo=DSmovie)](https://github.com/raulvlb/DSmovie) -->
