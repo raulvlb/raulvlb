@@ -1,8 +1,6 @@
 
 ## Olá, eu sou Raul Barra 👋 👨‍💻
 
-#
-
 ### Sobre mim:
 
 #### Sou um desenvolvedor front-end com experiência em desenvolvimento web. Desenvolvo projetos que utilizam tecnologias e bibliotecas como: HTML, CSS, Javascript, React, TypeScript e Styled Components.
