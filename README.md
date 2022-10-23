@@ -31,8 +31,6 @@
 [![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulvlb1942000@gmail.com)
 [![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulvlb/)
 
-#
-
 <!-- ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvlb&show_icons=true&theme=tokyonight) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulvlb&repo=DSmovie)](https://github.com/raulvlb/DSmovie) -->
